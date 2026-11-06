@@ -2,7 +2,10 @@
 
 A real-time dashboard for monitoring cosmic and terrestrial hazards using NASA's Open APIs. This application tracks Near-Earth Objects (NEOs), Space Weather events (Solar Flares, CMEs, Geomagnetic Storms), and active Earth hazard events like wildfires and storms.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600/0d1225/e8ecf4?text=Space+Hazard+Tracker+Dashboard)
+<img width="1906" height="918" alt="image" src="https://github.com/user-attachments/assets/d2f8eea3-edc7-4f91-b21e-c5f53e4ab3f2" />
+<img width="1786" height="855" alt="image" src="https://github.com/user-attachments/assets/c00aa66e-3d11-45da-8989-746923e8ec60" />
+<img width="1825" height="817" alt="image" src="https://github.com/user-attachments/assets/b7bd9277-dc7d-488b-abb8-973f32956e0a" />
+
 
 ## � Features
 
